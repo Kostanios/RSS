@@ -1,1 +1,1 @@
-# RSS
+https://kostanios.github.io/RSS/
